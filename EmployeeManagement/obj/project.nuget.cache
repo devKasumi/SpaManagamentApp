@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sf3JSlBtF+Ky1AhAbviCfm4nTe0NRFbFCj8Kydktr8GTtS4XrwheaHCuOY+pj7g3pLxe0b9L8gskITO1ZmRCBg==",
+  "success": true,
+  "projectFilePath": "D:\\C#_Project\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
